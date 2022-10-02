@@ -1,0 +1,16 @@
+# build output
+bin/
+obj/
+publish/
+
+# Visual Studio
+/.vs/
+
+# Visual Studio Code
+/.vscode/
+
+# JetBrains Rider
+/.idea/
+
+# git info
+git.properties
